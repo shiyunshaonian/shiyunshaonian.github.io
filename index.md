@@ -4,7 +4,7 @@
 
 ###相关项目
 
-[Adobe 破解版系列](链接: https://pan.baidu.com/s/1BcdbM6cSHin3Vs_65lDikQ) 提取码: 88po
+[Adobe 破解版系列](https://pan.baidu.com/s/1BcdbM6cSHin3Vs_65lDikQ), 提取码: 88po
 
 
 
