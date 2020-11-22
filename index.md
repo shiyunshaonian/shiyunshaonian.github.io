@@ -7,21 +7,24 @@
 [Adobe 破解版系列](https://pan.baidu.com/s/1BcdbM6cSHin3Vs_65lDikQ), 提取码: 88po
 
 
-<!DOCTYPE html>
 <html>
 <body>
 
-<h2>我的第一段 JavaScript</h2>
+<h2>JavaScript 能做什么？</h2>
 
-<button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()">
-点击这里来显示日期和时间
-</button>
+<p>JavaScript 能够改变 HTML 属性值。</p>
 
-<p id="demo"></p>
+<p>在本例中，JavaScript 改变了图像的 src 属性值。</p>
+
+<button onclick="document.getElementById('myImage').src='/i/eg_bulbon.gif'">开灯</button>
+
+<img id="myImage" border="0" src="/i/eg_bulboff.gif" style="text-align:center;">
+
+<button onclick="document.getElementById('myImage').src='/i/eg_bulboff.gif'">关灯</button>
 
 </body>
 </html>
+
 
 
 
